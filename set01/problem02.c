@@ -3,7 +3,6 @@
 {
   int w = 60;
   int x = 70;
-  int y = 30;
-  int a = (w + x + y);
-  printf("Sum of %d, %d, %d is %d\n", w, x, y, a);
+  int a = (w + x );
+  printf("Sum of %d, %dis %d\n", w, x, a);
   }
